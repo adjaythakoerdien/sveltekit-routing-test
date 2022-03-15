@@ -1,0 +1,1 @@
+<h1>Free for all</h1>
